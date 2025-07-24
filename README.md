@@ -197,6 +197,5 @@ Sinta-se livre para estudar, modificar e compartilhar.
 
 ---
 
-**Feito com 💻, café ☕ e muita vontade de aprender por [SeuNome](https://github.com/SeuUsuario)**  
 
 > Marque este repositório com uma ⭐ se você quer acompanhar meu progresso ou fazer o desafio também!
