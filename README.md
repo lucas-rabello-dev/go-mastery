@@ -1,6 +1,6 @@
 # 💡 100 Projetos em Golang - go-mastery
 
-> 🚀 Treinando lógica de programação e habilidades em Go do nível básico ao avan.
+> 🚀 Treinando lógica de programação e habilidades em Go
 
 ---
 
