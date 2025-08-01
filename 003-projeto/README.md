@@ -1,0 +1,1 @@
+## Verifica se o número é impar ou par
