@@ -14,7 +14,7 @@ func ReverseString(s string) string {
 
 <table>
 <tr>
-    <th></th>
+    <th>-</th>
     <th>0</th>
     <th>1</th>
     <th>2</th>
@@ -22,7 +22,7 @@ func ReverseString(s string) string {
     <th>4</th>
 </tr>
 <tr>
-    <td></td>
+    <td>-</td>
     <td>L</td>
     <td>U</td>
     <td>C</td>
@@ -32,34 +32,34 @@ func ReverseString(s string) string {
 <tr>
     <td>Váriaveis loop 1</td>
     <td>i</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>j</td>
 </tr>
 <tr>
     <td>Váriaveis loop 2</td>
-    <td></td>
+    <td>-</td>
     <td>i</td>
-    <td></td>
+    <td>-</td>
     <td>j</td>
-    <td></td>
+    <td>-</td>
 </tr>
 <tr>
     <td>Váriaveis loop 3</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
     <td>i j</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
 </tr>
 <tr>
     <td>Váriaveis loop 4</td>
-    <td></td>
+    <td>-</td>
     <td>j</td>
-    <td></td>
+    <td>-</td>
     <td>i</td>
-    <td></td>
+    <td>-</td>
 </tr>
 </table>
 
