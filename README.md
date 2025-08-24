@@ -67,7 +67,7 @@ Cada projeto possui:
 | 7   | Gerador de números aleatórios                     |  ✅     |
 | 8   | Inversor de string                                |  ✅     |
 | 9   | Contador de palavras                              |  ✅     |
-| 10  | Média de notas                                    |  ❌     |
+| 10  | Média de notas                                    |  ✅     |
 | 11  | Validador de CPF (estrutura)                      |  ❌     |
 | 12  | Simulador de dados (dado de 6 lados)              |  ❌     |
 | 13  | Conversor de moedas (valores fixos)               |  ❌     |
